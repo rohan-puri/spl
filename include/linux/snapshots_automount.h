@@ -41,4 +41,3 @@ linux_add_mount(struct vfsmount *newmnt, struct nameidata *nd,
 
 #endif /* _SPL_SNAPSHOTS_AUTOMOUNT_H */
 
-
